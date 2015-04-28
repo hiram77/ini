@@ -8,7 +8,7 @@ import android.view.MenuItem;
 
 
 /**
- * GOD is good
+ * GOD is good  
  */
 public class ItemDetailActivity extends ActionBarActivity {
 
